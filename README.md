@@ -1,11 +1,11 @@
 # DSCommerce
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquecesarjr/Calculo_de_frete/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/henriquecesarjr/DSCommerce/blob/main/LICENSE)
 
 # Sobre o projeto
 
-O Sistema de cálculo de frete é uma aplicação Java construída durante o primeiro módulo do curso de Java Spring da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+O DSCommerce é uma aplicação Java construída durante o segundo módulo do curso de Java Spring da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em realizar os cálculos dos fretes com base em algumas regras de negócios estabelecidas previamente no documento do projeto.
+A aplicação consiste em manter um cadastro de usuário, produtos e suas categorias onde os usuários podem selecionar os produtos e adicioná-los ao carrinho.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/henriquecesarjr/Calculo_de_frete/blob/main/modelo%20conceitual.png)
@@ -13,6 +13,9 @@ A aplicação consiste em realizar os cálculos dos fretes com base em algumas r
 # Tecnologias utilizadas
 - Java
 - Spring Boot
+- Spring WEB
+- JPA / Hibernate
+- H2 Database
 - Maven
 
 # Autor
