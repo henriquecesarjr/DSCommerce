@@ -3,8 +3,6 @@
 
 # Sobre o projeto
 
-O DSCommerce é uma aplicação Java construída durante o segundo módulo do curso de Java Spring da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
 A aplicação consiste em manter um cadastro de usuário, produtos e suas categorias onde os usuários podem selecionar os produtos e adicioná-los ao carrinho.
 
 ## Modelo conceitual
